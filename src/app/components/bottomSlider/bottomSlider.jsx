@@ -9,7 +9,7 @@ import "swiper/css/navigation";
 import Image from "next/image";
 import { Pagination, Autoplay, EffectCoverflow } from "swiper/modules";
 
-export default function () {
+export default function BottomSlider() {
     const ImageSlider = [
         {
           image: "/spain.jpg",

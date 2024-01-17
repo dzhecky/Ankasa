@@ -10,8 +10,8 @@ import X from "../../assets/tweet.png"
 
 export default function Footer() {
     return(
-        <main className="bg-white">
-        <div className="container flex flex-wrap justify-around m-auto">
+        <main className="">
+        <div className="flex flex-wrap justify-around bg-white p-7">
             <div className="box1 flex">
                 <div className="logo mr-2">
                 <Image src={Plane} />
