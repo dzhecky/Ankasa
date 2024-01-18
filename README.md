@@ -3,12 +3,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/dzhecky/Ankasa">
-    <img src="/public/icon.png" alt="Logo" width="160" height="160">
+    <img src="/public/icon.png" alt="Logo" width="140" height="140">
   </a>
 
   <h3 align="center">Ankasa Booking Ticket App</h3>
 
-  <p align="center">
+  <p align="center" >
     Lets find your flight ticket!
     <br />
     <a href="https://github.com/dzhecky/Ankasa"><strong>Explore the docs »</strong></a>
@@ -84,11 +84,11 @@ Things that you need to run this application
 
 1. Clone this front-end repository
    ```sh
-   git clone https://github.com/fauzimulyanaa/Ankasa-App.git
+   git clone https://github.com/dzhecky/Ankasa.git
    ```
 2. Go to repo local folder
    ```sh
-   cd Angkasa-App
+   cd Ankasa
    ```
 3. Install PNPM packages
    ```sh
@@ -106,7 +106,7 @@ Things that you need to run this application
 
 ## Demo Apps
 
-[View Demo](https://github.com/fauzimulyanaa/Ankasa-App.git)
+[View Demo](https://github.com/dzhecky/Ankasa.git)
 
 Account demo:
 
@@ -123,7 +123,7 @@ Account demo:
   <tr>
     <td><img src="/public/landingPage.png" alt="Home Page" width=100%></td>
     <td><img src="/public/profile.png" alt="Profile Page" width=100%/></td>
-    <td><img src="/public/tiketPage.png" alt="Profile Page" width=100%/></td>
+    <td><img src="/public/ticketPage.png" alt="Profile Page" width=100%/></td>
   </tr>
   <tr>
     <td>Home Page</td>
