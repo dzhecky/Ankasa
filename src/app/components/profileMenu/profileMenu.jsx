@@ -6,7 +6,7 @@ export default function ProfileMenu() {
   return (
     <div className='grandContent w-[320px] my-10 bg-white p-5 rounded-[10px]'>
         <div className="topProfile">
-        <Image src={Profile} className='m-auto' />
+        <Image src={Profile} className='m-auto rounded-xl' />
         <div className="selectPhoto text-blue-400 font-bold border-2 rounded-[10px] w-[120px] text-center mt-5 p-2 m-auto">
             <button>Select Photo</button>
         </div>

@@ -60,7 +60,9 @@ export default function NavbarProfile() {
                 <Image src={Bell} />
             </div>
             <div className="profile">
+              <a href="/profile">
                 <Image className="rounded-full" src={Profile} />
+              </a>
             </div>
           </div>
           <button className="text-[#414141] text-[16px] font-[700]" onClick={handleLogout}>
