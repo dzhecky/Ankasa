@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dzhecky/Ankasa">
+  <a href="https://github.com/dzhecky/Ankasa-TicketFlightApp">
     <img src="/public/icon.png" alt="Logo" width="140" height="140">
   </a>
 
@@ -11,13 +11,13 @@
   <p align="center" >
     Lets find your flight ticket!
     <br />
-    <a href="https://github.com/dzhecky/Ankasa"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dzhecky/Ankasa-TicketFlightApp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/dzhecky/Ankasa/issues">Report Bug</a>
+    <a href="https://github.com/dzhecky/Ankasa-TicketFlightApp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/dzhecky/Ankasa/issues">Request Feature</a>
+    <a href="https://github.com/dzhecky/Ankasa-TicketFlightApp/issues">Request Feature</a>
     <br />
     
   </p>
@@ -84,11 +84,11 @@ Things that you need to run this application
 
 1. Clone this front-end repository
    ```sh
-   git clone https://github.com/dzhecky/Ankasa.git
+   git clone https://github.com/dzhecky/Ankasa-TicketFlightApp.git
    ```
 2. Go to repo local folder
    ```sh
-   cd Ankasa
+   cd Ankasa-TicketFlightApp
    ```
 3. Install PNPM packages
    ```sh
@@ -106,7 +106,7 @@ Things that you need to run this application
 
 ## Demo Apps
 
-[View Demo](https://github.com/dzhecky/Ankasa.git)
+[View Demo](https://github.com/dzhecky/Ankasa-TicketFlightApp.git)
 
 Account demo:
 
