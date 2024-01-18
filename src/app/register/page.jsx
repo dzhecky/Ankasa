@@ -1,10 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
-import V1 from "../../assets/v1.png";
-import V2 from "../../assets/v2.png";
-import V3 from "../../assets/v3.png";
-import V4 from "../../assets/v4.png";
-import V5 from "../../assets/v5.png";
+import V1 from "../assets/v1.png";
+import V2 from "../assets/v2.png";
+import V3 from "../assets/v3.png";
+import V4 from "../assets/v4.png";
+import V5 from "../assets/v5.png";
 
 export default function Register() {
 
