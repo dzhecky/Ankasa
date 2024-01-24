@@ -8,7 +8,7 @@ export default function Profile() {
   return (
     <div className=''>
       <NavbarProfile />
-      <div className="flex justify-around h-screen">
+      <div className="flex justify-around h-auto pb-32">
         <ProfileMenu />
         <DetailMyBooking />
       </div>
