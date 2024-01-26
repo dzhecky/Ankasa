@@ -67,7 +67,7 @@ export default function FormLogin() {
   return (
     <div className="box2 sm:w-[50%] mx-auto overflow-hidden w-full">
           <form onSubmit={(e) => SignIn(e)} className="mx-[140px] my-[200px]">
-            <h1 className="font-bold text-[30px] mb-10">Login</h1>
+            <p className="font-bold text-[30px] mb-10">Login</p>
             <div className="users border-b-4">
               <input type="email" placeholder="Username" onChange={(e) => setEmail(e.target.value)} className="p-3 w-full" />
             </div>

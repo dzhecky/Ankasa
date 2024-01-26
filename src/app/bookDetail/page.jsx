@@ -7,7 +7,7 @@ export default function BookDetail() {
   return (
     <div className='bg-slate-200'>
         <NavbarProfile />
-        <div className="h-screen mb-[1100px]">
+        <div className="h-screen mb-[1100px] bg-white">
         <ContactPersonForm />
         </div>
         <Footer />
